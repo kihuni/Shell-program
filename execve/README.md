@@ -7,5 +7,5 @@ The PID remains the same.
 
 ## Syntax
 
-![exec system call process]()
+![exec system call process](https://github.com/kihuni/Shell-program/blob/main/execve/Exec()%20System%20Call.png)
 
