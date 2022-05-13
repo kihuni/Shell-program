@@ -7,3 +7,5 @@ The PID remains the same.
 
 ## Syntax
 
+![exec system call process]()
+
