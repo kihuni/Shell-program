@@ -69,7 +69,7 @@ We will use gcc command to compile our files
 
         gcc -o sample sample.c to compile the second file
 
-If you run the first file `./exec.c` 
+If you run the first file `./exec` 
 
             I am in exec.c
             PID of exec.c is 15305
