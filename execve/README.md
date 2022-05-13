@@ -1,8 +1,8 @@
-## What is execv system call
+## What is exec() system call
 
 - The exec system call, its used to execute a file in an active process
 
-- When the execve system call is called the existing running file is replaced with new file in the same process space.
+- When the execv system call is called the existing running file is replaced with new file in the same process space.
 The PID remains the same.
 
 ![exec system call process](https://github.com/kihuni/Shell-program/blob/main/execve/Exec()%20System%20Call.png)
