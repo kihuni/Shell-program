@@ -1,4 +1,4 @@
-## What is execve system call
+## What is execv system call
 
 - The exec system call, its used to execute a file in an active process
 
